@@ -905,7 +905,7 @@
           </item>
          </layout>
         </item>
-        <item row="1" column="0">
+        <item row="2" column="0">
          <layout class="QVBoxLayout" name="buttonShoulderButtonsZLVerticalLayout">
           <item>
            <layout class="QHBoxLayout" name="buttonShoulderButtonsZLHorizontalLayout">
